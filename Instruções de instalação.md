@@ -17,12 +17,14 @@ Como instalar:
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/05.PNG">
 6) Logo em seguida haverá um colchetes em aberto
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/06.PNG">
-7) Depois tu dê um enter logo depois desse colchetes, o que fará você descer uma linha abaixo
+7) Depois você dê um enter logo depois desse colchete, o que fará você descer uma linha abaixo
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/07.PNG">
 8) Então depois você vá até o arquivo "dark_green.json" e abra-o e selecione-o todo o código e copie
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/08.PNG">
-9) E cole esse código nessa linha e slave o arquivo clicando nas teclas "ctrl + s"
+9) E Selecione todo esse código e copie
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/09.PNG">
+10) E depois cole esse código nessa linha e salve o arquivo clicando nas teclas "ctrl + s"
+<img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/10.PNG">
 10) Logo após isso dê um clique na fleca para baixo do Windows Terminal novamente vá até configurações novamente
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/11.PNG">
 11) Em seguida vá até a opção Perfis e selecione o seu editor Windows, PowerShell ou a sua distribuição linux que você usa
