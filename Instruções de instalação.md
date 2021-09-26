@@ -29,7 +29,7 @@ Como instalar:
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/06.PNG">
 
-7) Depois você dê um enter logo depois desse colchete, o que fará você descer uma linha abaixo
+7) Depois você dê um enter logo depois desse colchete, o que fará você descer uma linha nova abaixo
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/07.PNG">
 
@@ -41,11 +41,11 @@ Como instalar:
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/09.PNG">
 
-10) E depois cole esse código nessa linha e salve o arquivo clicando nas teclas "ctrl + s"
+10) E depois cole esse código nessa linha nova e salve o arquivo clicando nas teclas "ctrl + s"
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/10.PNG">
 
-10) Logo após isso dê um clique na fleca para baixo do Windows Terminal novamente vá até configurações novamente
+10) Logo após isso dê um clique na fleca para baixo do Windows Terminal novamente e vá até configurações
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/11.PNG">
 
