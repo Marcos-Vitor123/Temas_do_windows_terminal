@@ -1,6 +1,8 @@
 # Temas_do_windows_terminal
 Trata-se de temas de cores de fundo e das letras do terminal Windows Terminal disponível no Microsoft Store
 
+![Screenshot](Thema dark green.png)
+
 Como instalar:
 
 1) Abra o Windows Terminal e clique na fleca para baixo
