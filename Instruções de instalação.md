@@ -33,7 +33,7 @@ Como instalar:
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/07.PNG">
 
-8) Então depois você vá até o arquivo "dark_green.json" e abra-o e selecione-o todo o código e copie
+8) Então depois você vá até o arquivo "dark_green.json" e abra-o
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/08.PNG">
 
