@@ -1,4 +1,4 @@
-# Temas_do_windows_terminal
+# Temas do windows terminal
 Trata-se de temas de cores de fundo e das letras do terminal Windows Terminal disponível no Microsoft Store que ficará assim como na imagem abaxo:
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/18.PNG">
