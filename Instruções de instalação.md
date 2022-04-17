@@ -1,11 +1,11 @@
-# Temas do windows terminal
+# Intruções de instalação do Tema do windows terminal
 Trata-se de temas de cores de fundo e das letras do terminal Windows Terminal disponível no Microsoft Store que ficará assim como na imagem abaxo:
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/18.PNG">
 
 Como instalar:
 
-1) Abra o Windows Terminal e clique na fleca para baixo
+1) Abra o Windows Terminal e clique na flecha para baixo
 
 <img src="https://github.com/Marcos-Vitor123/Temas_do_windows_terminal/blob/main/01.PNG">
 
